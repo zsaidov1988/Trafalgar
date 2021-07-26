@@ -1,0 +1,60 @@
+.header-logo-img {
+  width: 160px;
+  height: 41px;
+}
+
+.consult-img {
+  width: 693px;
+  height: 598px;
+}
+
+.services-search {
+  width: 92px;
+  height: 90px;
+}
+
+.services-pharmacy {
+  width: 62px;
+  height: 85px;
+}
+
+.services-consultation, .services-info {
+  width: 68px;
+  height: 95px;
+}
+
+.services-care {
+  width: 80px;
+  height: 71px;
+}
+
+.services-tracking {
+  width: 70px;
+  height: 95px;
+}
+
+.leading-img {
+  width: 650px;
+  height: 477px;
+}
+
+.download-img {
+  width: 665px;
+  height: 434px;
+}
+
+.customer-img {
+  width: 141px;
+  height: 141px;
+}
+
+.arrows {
+  width: 29px;
+  height: 19px;
+  vertical-align: middle;
+}
+
+.latest-list-item-img {
+  width: 350px;
+  height: 240px;
+}
