@@ -1,5 +1,6 @@
 body {
-  font-family: 'Mulish', sans-serif;
+  font-family: "Mulish", sans-serif;
+  background-color: #5a98f2;
 }
 
 * {
@@ -22,12 +23,10 @@ body {
   margin-left: 246px;
 }
 
-.header-logo{
-
+.header-logo {
 }
 
 .header-nav {
-
 }
 
 .header-nav-list {
@@ -45,7 +44,7 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 23px;
-  color: #1F1534;
+  color: #1f1534;
   opacity: 0.5;
 }
 
@@ -80,7 +79,7 @@ body {
   font-weight: 300;
   font-size: 21px;
   line-height: 32px;
-  color: #7D7987;
+  color: #7d7987;
   mix-blend-mode: normal;
   margin-top: 25px;
   margin-bottom: 45px;
@@ -91,14 +90,14 @@ body {
   text-align: center;
   width: 200px;
   height: 60px;
-  background-color: #458FF6;
+  background-color: #458ff6;
   border-radius: 55px;
   display: inline-block;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 60px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
 }
 
@@ -129,14 +128,14 @@ body {
   border-radius: 5px;
 }
 
-.to-left{
+.to-left {
   margin-left: 0;
 }
 
 .services-text {
   margin-top: 33px;
   text-align: center;
-  color: #7D7987;
+  color: #7d7987;
   font-style: normal;
   font-weight: 300;
   font-size: 18px;
@@ -182,24 +181,24 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 28px;
-  color: #7D7987;
+  color: #7d7987;
   mix-blend-mode: normal;
 }
 
-.services-link{
+.services-link {
   text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 200px;
   height: 60px;
-  border: 1.4px solid #458FF6;
+  border: 1.4px solid #458ff6;
   border-radius: 55px;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 60px;
-  color: #458FF6;
+  color: #458ff6;
   mix-blend-mode: normal;
   text-decoration: none;
 }
@@ -235,7 +234,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 30px;
-  color: #7D7987;
+  color: #7d7987;
 }
 
 .download {
@@ -257,7 +256,7 @@ body {
   margin-top: 266px;
   margin-left: auto;
   margin-right: auto;
-  background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+  background: linear-gradient(208.18deg, #67c3f3 9.05%, #5a98f2 76.74%);
   border-radius: 24px;
   padding-top: 64px;
   padding-left: 118px;
@@ -271,7 +270,7 @@ body {
   font-weight: bold;
   font-size: 36px;
   line-height: 48px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
   margin-bottom: 28px;
 }
@@ -295,7 +294,7 @@ body {
   font-weight: bold;
   font-size: 22px;
   line-height: 48px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
 }
 
@@ -328,7 +327,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-} 
+}
 
 .wrap-circles {
   width: 94px;
@@ -342,7 +341,7 @@ body {
   display: block;
   width: 10px;
   height: 10px;
-  background-color: #5B9BF3;
+  background-color: #5b9bf3;
   opacity: 0.3;
   border-radius: 50%;
 }
@@ -369,7 +368,7 @@ body {
   margin-bottom: 26px;
 }
 
-.latest-list{
+.latest-list {
   margin-bottom: 72px;
   margin-top: 79px;
   display: flex;
@@ -404,7 +403,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 28px;
-  color: #7D7987;
+  color: #7d7987;
   mix-blend-mode: normal;
 }
 
@@ -416,14 +415,14 @@ body {
   font-weight: 600;
   font-size: 17px;
   line-height: 28px;
-  color: #4089ED;
+  color: #4089ed;
   mix-blend-mode: normal;
   text-decoration: none;
 }
 
 .footer {
   margin-top: 201px;
-  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
   padding-top: 118px;
   padding-right: 190px;
   padding-bottom: 113px;
@@ -443,7 +442,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 28px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
 }
 
@@ -455,7 +454,7 @@ body {
   list-style-type: none;
 }
 
-.footer-list-item{
+.footer-list-item {
   width: 160px;
 }
 
@@ -464,7 +463,7 @@ body {
   font-weight: bold;
   font-size: 20px;
   line-height: 60px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
 }
 
@@ -478,6 +477,6 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 38px;
-  color: #FFFFFF;
+  color: #ffffff;
   mix-blend-mode: normal;
 }
